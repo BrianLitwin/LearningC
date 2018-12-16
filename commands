@@ -1,0 +1,20 @@
+#!/bin/bash 
+
+open chapters/chapter1/notes.md
+open chapters/chapter2/notes.md
+open chapters/chapter3/notes.md
+open chapters/chapter4/notes.md
+open chapters/chapter5/notes.md
+open chapters/chapter6/notes.md
+open chapters/chapter7/notes.md
+open chapters/chapter8/notes.md
+open chapters/chapter9/notes.md
+open chapters/chapter10/notes.md
+open chapters/chapter11/notes.md
+open chapters/chapter12/notes.md
+open chapters/chapter13/notes.md
+open chapters/chapter14/notes.md
+open chapters/chapter15/notes.md
+open chapters/chapter16/notes.md
+open chapters/chapter17/notes.md
+
